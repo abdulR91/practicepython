@@ -1,0 +1,2 @@
+# practicepython
+python scripts basics
